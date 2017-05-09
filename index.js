@@ -8,7 +8,6 @@ var http = require('http');
 var channelNames = [
   'release',
   'beta',
-  'aurora',
   'nightly'
 ];
 
